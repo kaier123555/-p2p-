@@ -5,7 +5,7 @@ P2P投资理财带余额宝理财  积分商城
 
 源码更新说明：新功能、新增积分商城、团队长奖励购、活期宝
 
-下载地址：https://mega-file.org/
+下载地址：https://mega-file.org/jHG2Q
 
 
 Telegram:@iGod5
